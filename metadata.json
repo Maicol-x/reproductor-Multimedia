@@ -1,0 +1,6 @@
+{
+  "name": "Monochrome Media",
+  "description": "Reproductor multimedia de escritorio completo para Windows con biblioteca de películas y series, conversor FFmpeg y persistencia SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
